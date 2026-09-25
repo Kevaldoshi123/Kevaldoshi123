@@ -67,14 +67,14 @@ With a strong foundation in modern software engineering and asynchronous backend
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kevaldoshi123&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kevaldoshi123&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevaldoshi123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=C9D1D9&icon_color=00FFCC" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevaldoshi123&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kevaldoshi123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=C9D1D9&icon_color=00FFCC&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevaldoshi123&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=C9D1D9&v=1" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
